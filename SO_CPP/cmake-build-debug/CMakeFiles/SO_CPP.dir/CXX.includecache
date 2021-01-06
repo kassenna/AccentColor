@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kasia/Projekty/QT/SO_CPP/libraryCPP.cpp
+libraryCPP.h
+/home/kasia/Projekty/QT/SO_CPP/libraryCPP.h
+iostream
+-
+
+/home/kasia/Projekty/QT/SO_CPP/libraryCPP.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libSO_CPP.so -o libSO_CPP.so CMakeFiles/SO_CPP.dir/libraryCPP.cpp.o 
